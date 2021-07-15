@@ -25,5 +25,15 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/JavaScript-00CCFF?style=flat-square&logo=JavaScript&logoColor=white"/></a><br>
 <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>
 
-###Study
+### Study <br>
 <a href="https://www.notion.so/b1ad75abea70481cb47a67ff70f18ae1"><img src="https://img.shields.io/badge/Notion-FF9900?style=flat-square&logo=Notion&logoColor=white"/></a>
+
+### Project <br>
+
+[MVC2](https://github.com/Yejun4911/GollaJo) <br>
+
+[DRF](https://github.com/Yejun4911/Dalgona) <br>
+
+[R_Data Analysis](https://github.com/Yejun4911/Airpollution_DataAnalysis) <br>
+ 
+
