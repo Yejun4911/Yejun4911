@@ -30,10 +30,10 @@ Here are some ideas to get you started:
 
 ### Project <br>
 
-[MVC2](https://github.com/Yejun4911/GollaJo) <br>
+[MVC2모델](https://github.com/Yejun4911/GollaJo) <br>
 
-[DRF](https://github.com/Yejun4911/Dalgona) <br>
+[DJango RestFramework](https://github.com/Yejun4911/Dalgona) <br>
 
-[R_Data Analysis](https://github.com/Yejun4911/Airpollution_DataAnalysis) <br>
+[R_DataAnalysis](https://github.com/Yejun4911/Airpollution_DataAnalysis) <br>
  
 
