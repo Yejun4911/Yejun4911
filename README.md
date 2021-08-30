@@ -18,11 +18,11 @@
 <a href="https://www.notion.so/b1ad75abea70481cb47a67ff70f18ae1"><img src="https://img.shields.io/badge/Notion-FF9900?style=flat-square&logo=Notion&logoColor=white"/></a>
 <br><br>
 ### 🔭 Project <br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yejun4911&repo=GollaJo)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yejun4911&repo=Dalgona)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yejun4911&repo=PeachProject)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yejun4911&repo=MaskStar)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yejun4911&repo=Airpollution_DataAnalysis)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yejun4911&repo=GollaJo)](https://github.com/Yejun4911/GollaJo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yejun4911&repo=Dalgona)](https://github.com/Yejun4911/Dalgona)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yejun4911&repo=PeachProject)](https://github.com/Yejun4911/PeachProject)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yejun4911&repo=MaskStar)](https://github.com/Yejun4911/MaskStar)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yejun4911&repo=Airpollution_DataAnalysis)](https://github.com/Yejun4911/Airpollution_DataAnalysis)
 <br><br>
 ### ⚡ Git Status
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yejun4911)](https://github.com/anuraghazra/github-readme-stats)
