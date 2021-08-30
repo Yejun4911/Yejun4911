@@ -1,22 +1,8 @@
-# 백엔드 개발자
+# 😄 백엔드 개발자
 
 
-<!--
-**Yejun4911/Yejun4911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### Stack <br>
+### 🌱 Stack <br>
 
 <img src="https://img.shields.io/badge/CSS-993366?style=flat-square&logo=CSS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/HTML-33CCCC?style=flat-square&logo=HTML&logoColor=white"/></a>
@@ -27,17 +13,18 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/DJango-111165?style=flat-square&logo=DJango&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>
-
-### Study <br>
+<br><br>
+### 😄 Study <br>
 <a href="https://www.notion.so/b1ad75abea70481cb47a67ff70f18ae1"><img src="https://img.shields.io/badge/Notion-FF9900?style=flat-square&logo=Notion&logoColor=white"/></a>
-
-### Project <br>
+<br><br>
+### 🔭 Project <br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yejun4911&repo=GollaJo)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yejun4911&repo=Dalgona)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yejun4911&repo=PeachProject)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yejun4911&repo=MaskStar)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yejun4911&repo=Airpollution_DataAnalysis)](https://github.com/anuraghazra/github-readme-stats)
- 
+<br><br>
+### ⚡ Git Status
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yejun4911)](https://github.com/anuraghazra/github-readme-stats)
 
 
