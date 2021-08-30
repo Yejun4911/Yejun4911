@@ -30,7 +30,7 @@
 
 ### Coding Test
 
-![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=yejun4911)
+[![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=yejun4911)](https://solved.ac/profile/yejun4911)
 
 
 
