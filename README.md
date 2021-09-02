@@ -1,7 +1,5 @@
 # 😄 백엔드 개발자
 
-
-
 ### 🌱 Stack <br>
 
 <img src="https://img.shields.io/badge/CSS-993366?style=flat-square&logo=CSS&logoColor=white"/></a>
