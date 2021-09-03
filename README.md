@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/DJango-111165?style=flat-square&logo=DJango&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>
-<br><br>
+<br>
 ### 😄 Study <br>
 <a href="https://www.notion.so/b1ad75abea70481cb47a67ff70f18ae1"><img src="https://img.shields.io/badge/Notion-FF9900?style=flat-square&logo=Notion&logoColor=white"/></a>
 <br>
