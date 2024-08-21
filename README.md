@@ -16,7 +16,6 @@
 <br>
 
 ### 😄 Study & Blog <br>
-<a href="https://www.notion.so/b1ad75abea70481cb47a67ff70f18ae1"><img src="https://img.shields.io/badge/Notion-FF9900?style=flat-square&logo=Notion&logoColor=white"/></a>
 <br>
 
 ### 🔭 Project <br>
