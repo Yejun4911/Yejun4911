@@ -16,6 +16,7 @@
 <br>
 
 ### 😄 Study & Blog <br>
+https://velog.io/@nujey1104/posts
 <br>
 
 ### 🔭 Project <br>
