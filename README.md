@@ -16,7 +16,7 @@
 <br>
 
 ### 😄 Study & Blog <br>
-https://velog.io/@nujey1104/posts
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yejun4911@gmail.com)](https://velog.io/@nujey1104/posts)
 <br>
 
 ### 🔭 Project <br>
