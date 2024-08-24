@@ -1,37 +1,31 @@
-# 😄 백엔드 개발자
-### Career
-#### FLOW (2022.02 ~ 2024.06)
-<br>
+ <div align = 'center'>
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=143ee5&text=Hello&height=130&fontSize=40&desc=I'm%20Yejun%20&descAlignY=75&descAlign=60"/>
+</p>
 
-### 🌱 Stack <br>
-<img src="https://img.shields.io/badge/CSS-993366?style=flat-square&logo=CSS&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/HTML-33CCCC?style=flat-square&logo=HTML&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/JavaScript-00CCFF?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+<h3>⚙️ Career</h3>
+플로우 (2022.02 ~ 2024.06)
+
+<h3>🌱 Skils</h3> 
 <img src="https://img.shields.io/badge/Java-FF3366?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-66CC99?style=flat-square&logo=Spring&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Mysql-66CCCC?style=flat-square&logo=Mysql&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/DJango-111165?style=flat-square&logo=DJango&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Express-124566?style=flat-square&logo=Express&logoColor=white"/></a>
+
+<img src="https://img.shields.io/badge/PostgreSQL-456333?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Mysql-456333?style=flat-square&logo=Mysql&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Redis-456333?style=flat-square&logo=Redis&logoColor=white"/></a>
+
 <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>
-<br>
+<img src="https://img.shields.io/badge/Nginx-349900?style=flat-square&logo=Nginx&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Apache-349900?style=flat-square&logo=Apache&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Docker-349900?style=flat-square&logo=Docker&logoColor=white"/></a>
 
-### 😄 Study & Blog <br>
+<h3>😄 Study & Blog</h3>
+
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=nujey1104)](https://velog.io/@nujey1104/posts)
-<br>
 
-### 🔭 Project <br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yejun4911&repo=GollaJo)](https://github.com/Yejun4911/GollaJo)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yejun4911&repo=Dalgona)](https://github.com/Yejun4911/Dalgona)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yejun4911&repo=PeachProject)](https://github.com/Yejun4911/PeachProject)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yejun4911&repo=MaskStar)](https://github.com/Yejun4911/MaskStar)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yejun4911&repo=Airpollution_DataAnalysis)](https://github.com/Yejun4911/Airpollution_DataAnalysis)
-<br><br>
-### ⚡ Git Status
+<h3> ⚡ Git Status </h3>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yejun4911)](https://github.com/anuraghazra/github-readme-stats)
-<br><br>
 
-### Coding Test
-[![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=yejun4911)](https://solved.ac/profile/yejun4911)
-
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyejun4911%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+</div>
