@@ -3,10 +3,10 @@
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=143ee5&text=Hello&height=130&fontSize=40&desc=I'm%20Yejun%20&descAlignY=75&descAlign=60"/>
 </p>
 
-<h3>⚙️ Career</h3>
+<h3>⚙️ Career. </h3>
 플로우 (2022.02 ~ 2024.06)
 
-<h3>🌱 Skils</h3> 
+<h3>🌱 Skils. </h3> 
 <img src="https://img.shields.io/badge/Java-FF3366?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-66CC99?style=flat-square&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express-124566?style=flat-square&logo=Express&logoColor=white"/>
