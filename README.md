@@ -4,7 +4,7 @@
 </p>
 
 <h3>⚙️ Career. </h3>
-플로우 (2022.02 ~ 2024.06)
+마드라스체크 (2022.02 ~ 2024.06)
 
 <h3>🌱 Skils. </h3> 
 <img src="https://img.shields.io/badge/Java-FF3366?style=flat-square&logo=Java&logoColor=white"/>
