@@ -25,8 +25,5 @@
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=nujey1104)](https://velog.io/@nujey1104/posts)
 
-<h3> ⚡ Git Status </h3>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yejun4911)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
