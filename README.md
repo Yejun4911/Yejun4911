@@ -4,8 +4,8 @@
 </p>
 
 <h3>⚙️ Career. </h3>
-(주)두리번 백엔드 백엔드 개발자 (2025.02 ~ )  </br>
-마드라스체크엔터프라이즈 개발 & 기술지원팀 (2022.02 ~ 2024.06)
+(주)두리번 | 백엔드 개발자 (2025.02 ~ )  </br>
+(주)마드라스체크 | 웹 서버 개발자 (2022.02 ~ 2024.06)
 
 <h3>🌱 Skils. </h3> 
 <img src="https://img.shields.io/badge/Java-FF3366?style=flat-square&logo=Java&logoColor=white"/>
