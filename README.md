@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/Java-FF3366?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-66CC99?style=flat-square&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express-124566?style=flat-square&logo=Express&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/NestJs-124566?style=flat-square&logo=Express&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-456333?style=flat-square&logo=PostgreSQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/Mysql-456333?style=flat-square&logo=Mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-456333?style=flat-square&logo=Redis&logoColor=white"/>
