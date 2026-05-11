@@ -2,9 +2,9 @@
 
 # Yejun 👋
 
-**Backend Developer** · Java · Spring · Node.js
+**Backend Developer** · Java · Spring · Nest.js
 
-끊임없이 성장하는 백엔드 개발자, 예준입니다.
+끊임없이 성장하는 백엔드 개발자 최예준입니다.
 
 ---
 
